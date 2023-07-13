@@ -5,6 +5,6 @@ We have used open vino optimzation for the lenet model and used intel_extension_
 
 The results are then visualized in graphical formats using matplotlib.
 
-the report and results are given in docs section of the repository, incase if it dosen't work 
+the report and results are given in docs section of the repository, incase if it doesn't work 
   use the link :- https://drive.google.com/file/d/1r4qZohBqW4Y4lltzIEg3iBgzY7_v_coB/view?usp=sharing
 
